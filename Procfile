@@ -1,0 +1,1 @@
+wub: gunicorn app:app
